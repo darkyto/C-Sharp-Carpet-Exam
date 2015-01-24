@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpets", "Carpets\Carpets.csproj", "{F8B97E0F-4AF3-4002-B073-9075F2269A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarpetsAlternative", "CarpetsAlternative\CarpetsAlternative.csproj", "{8F928382-0491-4340-B201-D67A5F4D4395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarpetEvlogi", "CarpetEvlogi\CarpetEvlogi.csproj", "{C4F368D0-BC85-4E94-8A17-DAD4C6766CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B97E0F-4AF3-4002-B073-9075F2269A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B97E0F-4AF3-4002-B073-9075F2269A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B97E0F-4AF3-4002-B073-9075F2269A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B97E0F-4AF3-4002-B073-9075F2269A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F928382-0491-4340-B201-D67A5F4D4395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F928382-0491-4340-B201-D67A5F4D4395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F928382-0491-4340-B201-D67A5F4D4395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F928382-0491-4340-B201-D67A5F4D4395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F368D0-BC85-4E94-8A17-DAD4C6766CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F368D0-BC85-4E94-8A17-DAD4C6766CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F368D0-BC85-4E94-8A17-DAD4C6766CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F368D0-BC85-4E94-8A17-DAD4C6766CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
